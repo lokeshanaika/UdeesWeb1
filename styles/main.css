@@ -38,7 +38,7 @@ h1,
 
 .container .row .left-wrap .left {
   background-image: url(../img/ph1.jpg);
-  background-repeat: no-repeat;
+  background-repeat: inherit;
   background-position: 110% 60%;
   height: 100vh;
   -webkit-box-align: center;
