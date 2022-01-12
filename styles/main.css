@@ -34,7 +34,7 @@ h1,
 
 .container .row .left-wrap .left {
   background-image: url(../img/ph1.jpg);
-  background-repeat: ;
+  background-repeat: no-repeat ;
   background-position: 110% 60%;
   height: 100vh;
   -webkit-box-align: center;
@@ -61,7 +61,7 @@ h1,
   font-size: 3.5em;
   margin-right: 2em;
   font-weight: bold;
-  color: black;
+  color: wheat;
 }
 
 @media screen and (max-width: 576px) {
@@ -155,12 +155,12 @@ h1,
 
 .container .right .mainInfo .form-subscribe button {
   width: 120px;
-  height: 40px;
+  height: 44px;
   border: 2px solid white;
   border-top: 3px solid white;
   border-radius: 0 25px 25px 0;
   padding: 0;
-  color: red;
+  color: white;
   background-color: black;
 }
 
