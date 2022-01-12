@@ -1,9 +1,5 @@
 /*------------------------------------------------------------------
-Project:  ComingSoon template
-Version:  1.0
-Last change:  2.07.2020
-Assigned to:  Pawel Zuchowski
-Primary use:  Free to use under Creative Commons
+
 -------------------------------------------------------------------*/
 body,
 body * {
@@ -38,7 +34,7 @@ h1,
 
 .container .row .left-wrap .left {
   background-image: url(../img/ph1.jpg);
-  background-repeat: inherit;
+  background-repeat: ;
   background-position: 110% 60%;
   height: 100vh;
   -webkit-box-align: center;
@@ -164,7 +160,7 @@ h1,
   border-top: 3px solid white;
   border-radius: 0 25px 25px 0;
   padding: 0;
-  color: black;
+  color: red;
   background-color: black;
 }
 
