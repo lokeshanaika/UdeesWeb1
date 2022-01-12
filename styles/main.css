@@ -125,7 +125,7 @@ h1,
 .container .right .mainInfo .slogan {
   width: 50vw;
   margin-top: 1.5em;
-  color: #6d6464;
+  color: deepskyblue;
 }
 
 @media screen and (max-width: 576px) {
